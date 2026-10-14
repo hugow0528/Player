@@ -1,0 +1,6 @@
+{
+  "name": "AuraPlayer",
+  "description": "Smart audio player featuring playlist folders, auto-advance, sleep timer, and beautiful playback UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
